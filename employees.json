@@ -1,0 +1,62 @@
+[
+  {
+    "username": "Nathan Never",
+    "role": "Dev",
+    "email": "userA@mycompany.com",
+    "tasks": [
+      "jobA",
+      "jobB",
+      "jobC"
+    ]
+  },
+  {
+    "username": "Dylan Dog",
+    "role": "Dev",
+    "email": "userB@mycompany.com",
+    "tasks": [
+      "jobA",
+      "jobB",
+      "jobC"
+    ]
+  },
+  {
+    "username": "Jerry Drake",
+    "role": "Dev",
+    "email": "userC@mycompany.com",
+    "tasks": [
+      "jobA",
+      "jobB",
+      "jobC"
+    ]
+  },
+  {
+    "username": "Martin Mystere",
+    "role": "Dev",
+    "email": "userD@mycompany.com",
+    "tasks": [
+      "jobA",
+      "jobB",
+      "jobC"
+    ]
+  },
+  {
+    "username": "Peter Parker",
+    "role": "Dev",
+    "email": "userE@mycompany.com",
+    "tasks": [
+      "jobA",
+      "jobB",
+      "jobC"
+    ]
+  },
+  {
+    "username": "Bruce Wayne",
+    "role": "ev",
+    "email": "userF@mycompany.com",
+    "tasks": [
+      "jobA",
+      "jobB",
+      "jobC"
+    ]
+  }
+]
